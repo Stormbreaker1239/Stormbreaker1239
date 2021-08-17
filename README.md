@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Stormbreaker1239
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Stormbreaker1239/Stormbreaker1239 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, My name is @Stormbreaker1239 and I am a python programmer(quite but of an expert in it).
+I have made many python projects,right from basic ones to advanced ones.I WIll upload them sonner or later.
+If you want me to make some simple python projects,just let me know!!!
